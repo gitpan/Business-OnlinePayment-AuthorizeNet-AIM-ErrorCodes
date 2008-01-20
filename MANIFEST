@@ -1,0 +1,7 @@
+CHANGES
+lib/Business/OnlinePayment/AuthorizeNet/AIM/ErrorCodes.pm
+Makefile.PL
+MANIFEST			This list of files
+t/00-use.t
+t/01-basic.t
+META.yml                                 Module meta-data (added by MakeMaker)
